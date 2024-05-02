@@ -1,0 +1,30 @@
+Total users		-> 4
+Total tasks		-> 4
+--------------------------------------------------
+User: admin
+Number of tasks		-> 0
+Total percentage of tasks	-> 0.00%
+Percentage of task completed		-> 0.00%
+Percentage of task incomplete		-> 0.00%
+Percentage of overdue		-> 0.00%
+--------------------------------------------------
+User: clever
+Number of tasks		-> 1
+Total percentage of tasks	-> 25.00%
+Percentage of task completed		-> 0.00%
+Percentage of task incomplete		-> 100.00%
+Percentage of overdue		-> 100.00%
+--------------------------------------------------
+User: tiyani
+Number of tasks		-> 0
+Total percentage of tasks	-> 0.00%
+Percentage of task completed		-> 0.00%
+Percentage of task incomplete		-> 0.00%
+Percentage of overdue		-> 0.00%
+--------------------------------------------------
+User: trent
+Number of tasks		-> 2
+Total percentage of tasks	-> 50.00%
+Percentage of task completed		-> 100.00%
+Percentage of task incomplete		-> 0.00%
+Percentage of overdue		-> 0.00%
